@@ -88,11 +88,11 @@ npm start
 ## Frontend Screenshot
 
 <img src="https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png" height="800" width="400" alt="Homepage">
-- ``
-- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
-- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
-- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
-- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
+<img src="https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(174).png" height="800" width="400" alt="Homepage">
+<img src="https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(175).png" height="800" width="400" alt="Homepage">
+<img src="https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(176).png" height="800" width="400" alt="Homepage">
+<img src="https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(177).png" height="800" width="400" alt="Homepage">
+
 
 ---
 
